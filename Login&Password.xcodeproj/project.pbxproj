@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C1AAC19297EAE9100D096F6 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1AAC18297EAE9100D096F6 /* WelcomeViewController.swift */; };
+		2C1AAC1B297EAED200D096F6 /* MoreInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C1AAC1A297EAED200D096F6 /* MoreInfoViewController.swift */; };
 		2CC8E63F297D72E5004A0BEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC8E63E297D72E5004A0BEE /* AppDelegate.swift */; };
 		2CC8E641297D72E5004A0BEE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC8E640297D72E5004A0BEE /* SceneDelegate.swift */; };
 		2CC8E643297D72E5004A0BEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC8E642297D72E5004A0BEE /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C1AAC18297EAE9100D096F6 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		2C1AAC1A297EAED200D096F6 /* MoreInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreInfoViewController.swift; sourceTree = "<group>"; };
 		2CC8E63B297D72E5004A0BEE /* Login&Password.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Login&Password.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CC8E63E297D72E5004A0BEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CC8E640297D72E5004A0BEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				2CC8E63E297D72E5004A0BEE /* AppDelegate.swift */,
 				2CC8E640297D72E5004A0BEE /* SceneDelegate.swift */,
 				2CC8E642297D72E5004A0BEE /* ViewController.swift */,
+				2C1AAC18297EAE9100D096F6 /* WelcomeViewController.swift */,
+				2C1AAC1A297EAED200D096F6 /* MoreInfoViewController.swift */,
 				2CC8E644297D72E5004A0BEE /* Main.storyboard */,
 				2CC8E647297D72EB004A0BEE /* Assets.xcassets */,
 				2CC8E649297D72EB004A0BEE /* LaunchScreen.storyboard */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CC8E643297D72E5004A0BEE /* ViewController.swift in Sources */,
+				2C1AAC19297EAE9100D096F6 /* WelcomeViewController.swift in Sources */,
+				2C1AAC1B297EAED200D096F6 /* MoreInfoViewController.swift in Sources */,
 				2CC8E63F297D72E5004A0BEE /* AppDelegate.swift in Sources */,
 				2CC8E641297D72E5004A0BEE /* SceneDelegate.swift in Sources */,
 			);
